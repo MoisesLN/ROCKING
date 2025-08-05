@@ -1,5 +1,5 @@
-# ICRES – "Interactive Color Response and Engagement System"
-3D Puzzle game based on color mechanics. The game consists of the player changing between colors to phase through walls and obstacles.
+# ROCKING
+2D Roguelike game based on the myth of Sisyphus.
 
 ##  1. Game mechanics
 The game will work in a level-based story mode system. More on the story later!
