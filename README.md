@@ -26,6 +26,6 @@ Para que sua alma não se desintegre e seu legado não seja apagado, proponho um
 Mas não se engane — seu caminho será repleto dos meus servos mais leais, enviados para destruir o que restou de você. Serei generoso e farei com que sua pedra não role durante essas lutas… exceto, é claro, quando eu decidir apimentar as coisas.
 Então, Sísifo… aceita esta última chance de redenção?"
 
-Então Sisífo sobe sua jornada
+Então Sisífo sobe sua em jornada passando por diversos disafios, como ventos fortes, maldições, os mais fieís servos de Hades. Mas nem tudo são dores pois os outros deuses interveem nessa jornada lhe concedendo benções que facilitará sua escalada, será que Sisífo recuperará sua alma por completo e atingirá a libertação?
 
 
