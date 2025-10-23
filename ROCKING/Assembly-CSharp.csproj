@@ -51,6 +51,7 @@
     <Compile Include="Assets\Scripts\Config.cs" />
     <Compile Include="Assets\Scripts\DialogoManager.cs" />
     <Compile Include="Assets\Scripts\Menu Principal.cs" />
+    <Compile Include="Assets\Scripts\floatingAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

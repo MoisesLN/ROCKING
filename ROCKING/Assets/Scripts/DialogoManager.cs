@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class DialogoManager : MonoBehaviour
 {
@@ -44,8 +45,7 @@ public class DialogoManager : MonoBehaviour
         else
         {
             // quando acaba o diálogo
-            _textMeshPro.text = "";
-            _continueText.gameObject.SetActive(false);
+            SceneManager.LoadScene("Luta");
         }
     }
 

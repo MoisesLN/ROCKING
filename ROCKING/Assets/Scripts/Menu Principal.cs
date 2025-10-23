@@ -5,7 +5,7 @@ public class MenuPrincipal : MonoBehaviour
 {
     public void IniciarJogo()
     {
-        SceneManager.LoadScene("JogoPrincipal");
+        SceneManager.LoadScene("DialogoInicial");
     }
 
     public void IrConfiguracoes()
