@@ -5,6 +5,7 @@ public class floatingAnimation : MonoBehaviour
 {
     float originalY;
     public float floatStrenght = 1;
+    public float animationSpeed = 1;
 
     void Start()
     {
@@ -17,7 +18,7 @@ public class floatingAnimation : MonoBehaviour
     {
         // vector3 recebe (x, y, z). x,z permanecem os mesmo
         transform.position = new Vector3(transform.position.x,
-            originalY + ((float)Math.Sin(Time.time) * floatStrenght),
+            originalY + ((float)Math.Sin(Time.time * animationSpeed) * floatStrenght),
             transform.position.z);
     }
 }
