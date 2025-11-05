@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Config.cs" />
     <Compile Include="Assets\Scripts\DialogoManager.cs" />
+    <Compile Include="Assets\Scripts\VidaManager.cs" />
     <Compile Include="Assets\Scripts\Menu Principal.cs" />
     <Compile Include="Assets\Scripts\floatingAnimation.cs" />
   </ItemGroup>

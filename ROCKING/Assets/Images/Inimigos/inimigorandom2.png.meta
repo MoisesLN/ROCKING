@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 2640b3a900ee46549a8d37ccd1bc5717
+guid: d2c674bfd186ce043843b18a7beccdd2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7151958888795693489
-    second: GUI_0
-  - first:
-      213: 8105364098890919055
-    second: GUI_1
-  - first:
-      213: -5376358965234703051
-    second: GUI_2
-  - first:
-      213: 5740453210667488706
-    second: GUI_3
+      213: -6869949567060175766
+    second: inimigorandom2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GUI_0
+      name: inimigorandom2_0
       rect:
         serializedVersion: 2
-        x: 339
-        y: 489
-        width: 612
-        height: 122
+        x: 559
+        y: 239
+        width: 392
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,74 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4e922988432fbc90800000000000000
-      internalID: -7151958888795693489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUI_1
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 409
-        width: 62
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f8ce89134b90c7070800000000000000
-      internalID: 8105364098890919055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUI_2
-      rect:
-        serializedVersion: 2
-        x: 329
-        y: 189
-        width: 622
-        height: 172
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 535e23c91065365b0800000000000000
-      internalID: -5376358965234703051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUI_3
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 109
-        width: 62
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c51697e7cf2aaf40800000000000000
-      internalID: 5740453210667488706
+      spriteID: a64978e644909a0a0800000000000000
+      internalID: -6869949567060175766
       vertices: []
       indices: 
       edges: []
